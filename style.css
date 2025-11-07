@@ -1,12 +1,20 @@
-p{
+/* p{
     color:blue;
     background-color: red;
     text-align: center;
-}
+} */
 .p{
     color: green;
     background-color: aqua;
 }
 #as{
     font-size: 25px;
+}
+div{
+    height: 200px;
+    width: 200px;
+    background-color: red;
+    padding: 20px;
+    border: 1px solid black;
+    margin: 100px;
 }
