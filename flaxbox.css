@@ -5,7 +5,7 @@
     border: 1px solid black;
     display: flex;
     flex-direction: row;
-    flex-wrap: nowrap;
+    flex-wrap: wrap-reverse;
     align-content: space-between;
     align-items: center;
 }
